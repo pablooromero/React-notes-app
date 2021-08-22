@@ -1,0 +1,28 @@
+[debug] [2021-08-22T01:53:02.035Z] ----------------------------------------------------------------------
+[debug] [2021-08-22T01:53:02.037Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\Pablo Romero\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init hosting
+[debug] [2021-08-22T01:53:02.038Z] CLI Version:   9.16.5
+[debug] [2021-08-22T01:53:02.038Z] Platform:      win32
+[debug] [2021-08-22T01:53:02.038Z] Node Version:  v14.16.0
+[debug] [2021-08-22T01:53:02.039Z] Time:          Sat Aug 21 2021 22:53:02 GMT-0300 (hora estándar de Argentina)
+[debug] [2021-08-22T01:53:02.039Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2021-08-22T01:53:02.047Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2021-08-22T01:53:02.047Z] > authorizing via signed-in user (pabloromerook@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\Pablo Romero\Desktop\Programación\React\journal-app
+
+[info] 
+=== Project Setup
+[info] 
+[info] First, let's associate this project directory with a Firebase project.
+[info] You can create multiple project aliases by running firebase use --add, 
+[info] but for now we'll just set up a default project.
+[info] 
